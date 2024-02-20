@@ -1,0 +1,119 @@
+#item_list{
+    height: 70%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#item-1{
+    height: 200px;
+    width: 90%;
+    border: 1px solid black;
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+#left-1{
+    width: 70%;
+    height: 100%;
+    left: 100px;
+}
+
+#right-1{
+    height: 90%;
+    width: 15%;
+    background-image: url("NI_1.png");
+}
+#b1{
+    height: 35%;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#item-2{
+    height: 200px;
+    width: 90%;
+    border: 1px solid black;
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+#left-2{
+    width: 70%;
+    height: 100%;
+    left: 100px;
+}
+
+#right-2{
+    height: 85%;
+    width: 13%;
+    background-image: url("NI_2.png");
+}
+
+#b2{
+    height: 35%;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#right-3{
+    height: 90%;
+    width: 20%;
+    background-image: url("NI_3.png");
+}
+#b3{
+    height: 35%;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#right-4{
+    height: 85%;
+    width: 15%;
+    background-image: url("NI_4.png");
+}
+#b4{
+    height: 35%;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#right-5{
+    height: 80%;
+    width: 15%;
+    background-image: url("NI_5.png");
+}
+#b5{
+    height: 35%;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#check{
+    height: 150px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#checkout{
+    height: 50%;
+    width: 150px;
+    border-radius: 20px;
+}
+
+#payable{
+    font-size: 30px;
+}
